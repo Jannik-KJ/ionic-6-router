@@ -1,0 +1,8 @@
+{
+  "name": "ionic-6-router",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ca95c5a8"
+}

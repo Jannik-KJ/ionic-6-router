@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-6-router",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
